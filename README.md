@@ -1,2 +1,25 @@
-# Single-Page-CV
-This is my first html/css project which is completed using basis of html and css
+# Single-Page CV
+
+A simple single-page CV created using HTML as part of the roadmap.sh Frontend Developer projects.
+
+## Project URL
+
+https://github.com/Prashantchourasiya/Single-Page-CV
+
+## Technologies Used
+
+* HTML5
+
+## Features
+
+* Personal information
+* Skills
+* Education
+* Experience
+* Projects
+* Social media links
+* Semantic HTML structure
+
+## Author
+
+Prashant Chourasiya
