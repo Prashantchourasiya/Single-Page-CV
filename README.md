@@ -1,1 +1,1 @@
-https://github.com/Prashantchourasiya/Single-Page-CV
+https://roadmap.sh/Prashantchourasiya/Single-Page-CV
